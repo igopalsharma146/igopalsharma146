@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gopal Sharma.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Machine learning,Power Bi,Python,Java.
+- 🌱 I’m currently learning #Machine learning,Power Bi,Python,Java.
 - 💞️ I’m looking to collaborate on poor
 - 📫 How to reach me sharmagopal7316@gmail.com
 - 😄 Pronouns: ...

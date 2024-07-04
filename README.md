@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @igopalsharma146
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Machine learning
+- 👋 Hi, I’m Gopal Sharma.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning Machine learning,Power Bi,Python,Java.
 - 💞️ I’m looking to collaborate on poor
-- 📫 How to reach me 6367083146(Only whatsapp)
+- 📫 How to reach me sharmagopal7316@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Aaj ke jamane me shubh chintak ese hai , Jo aapka shubh hota dekh , chintit ho jate hai.
+- ⚡ Fun fact: Cricket,GYM,Running,Singing.
 - ✅ Life doesn't always give you a second chance🤗💞💙,You never get a second chance to create the first impression😊💛,So make your first chance count😊💕💖
 
 

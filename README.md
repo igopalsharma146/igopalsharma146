@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine learning,Power Bi,java.
 - 💞️ I’m looking to collaborate on data-driven projects and open-source initiatives.
 - 📫 How to reach me : sharmagopal7316@gmail.com
-- 😄 Pronouns: He/Him/Cheeku
+- 😄 Pronouns: He/Him/Cheeku.
 - ⚡ Fun fact: Cricket,GYM,Running,Singing.
 - ✅ Life doesn't always give you a second chance🤗💞💙,You never get a second chance to create the first impression😊💛,So make your first chance count😊💕💖.
 

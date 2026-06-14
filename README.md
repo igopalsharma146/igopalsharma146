@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gopal Sharma</h1>
 - 👀 I’m interested in data science,machine learning Engineer.<br>
-- 🌱 I’m currently learning Deep learning,NLP And GPT Technology.<br>
+- 🌱 I’m currently learning DSA and Machine Learning.<br>
 - 💞️ I’m looking to collaborate on data-driven projects and open-source initiatives.<br>
 - 📫 How to reach me : sharmagopal7316@gmail.com<br>
 - 😄 Pronouns: He/Him/Cheeku.<br>

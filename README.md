@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=igopalsharma146&show_icons=true&locale=en" alt="igopalsharma146" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igopalsharma146&" alt="igopalsharma146" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=igopalsharma146&theme=dark&border_radius=5.3&date_format=j%20M%5B%20Y%5D" alt="igopalsharma146" /></p>

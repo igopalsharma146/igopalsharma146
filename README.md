@@ -5,7 +5,7 @@
 - 📫 How to reach me : sharmagopal7316@gmail.com<br>
 - 😄 Pronouns: He/Him/Cheeku.<br>
 - ⚡ Fun fact: Cricket,Volly Ball,GYM,Running.<br>
-- ✅ Life doesn't always give you a second chance🤗💞💙,You never get a second chance to create the first impression😊💛,So make your first chance count😊💕💖. <br>
+- ✅ Life doesn't always give you a second chance🤗💞💙,You never get a second chance to create the first impression😊💛,So make your first chance count😊💕💖.<br>
 
 
 <!---
